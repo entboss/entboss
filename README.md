@@ -1,5 +1,5 @@
 Laravel 6.2
 
-Entboss 19.10
+EntBoss 19.10
 
-modules: user
+Modules: user, web

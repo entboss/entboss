@@ -1,10 +1,10 @@
 {
-    "name": "laravel/laravel",
+    "name": "entboss/entboss",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The EntBoss Framework.",
     "keywords": [
         "framework",
-        "laravel"
+        "entboss"
     ],
     "license": "MIT",
     "require": {
