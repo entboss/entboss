@@ -1,0 +1,25 @@
+{
+    "name": "entboss/user",
+    "description": "",
+    "authors": [
+        {
+            "name": "entboss",
+            "email": "entboss@hotmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Eb\\User\\Providers\\UserServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Eb\\User\\": ""
+        }
+    }
+}
